@@ -39,5 +39,5 @@ print('Modulo =', modulo)
 
 # divisão inteira //
 divisao = 5 // 2
-print('5 / 2 =', divisao)
+print('5 // 2 =', divisao)
 print('Tipo da variavel divisão =', type(divisao))
